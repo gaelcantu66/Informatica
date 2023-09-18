@@ -3,7 +3,7 @@
 ----
 
 ### Componentes de mi computadora:
-+Procesador Intel Celeron N3060
-+RAM 4GB
-+ROM SSD 64GB
++ Procesador Intel Celeron N3060
++ RAM 4GB
++ ROM SSD 64GB
 
